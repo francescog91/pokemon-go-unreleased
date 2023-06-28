@@ -1,0 +1,7 @@
+node_modules
+data
+html
+package*.json
+*.js
+*.bat
+tmp
