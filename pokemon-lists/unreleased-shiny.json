@@ -1,34 +1,6 @@
 {
-    "date": "2024-01-25T00:00:00.000Z",
+    "date": "2024-03-31T00:00:00.000Z",
     "items": [
-        {
-            "id": 417,
-            "name": "Pachirisu"
-        },
-        {
-            "id": 433,
-            "name": "Chingling"
-        },
-        {
-            "id": 434,
-            "name": "Stunky"
-        },
-        {
-            "id": 435,
-            "name": "Skuntank"
-        },
-        {
-            "id": 441,
-            "name": "Chatot"
-        },
-        {
-            "id": 455,
-            "name": "Carnivine"
-        },
-        {
-            "id": 479,
-            "name": "Rotom"
-        },
         {
             "id": 489,
             "name": "Phione"
@@ -36,10 +8,6 @@
         {
             "id": 490,
             "name": "Manaphy"
-        },
-        {
-            "id": 492,
-            "name": "Shaymin"
         },
         {
             "id": 493,
@@ -60,22 +28,6 @@
         {
             "id": 542,
             "name": "Leavanny"
-        },
-        {
-            "id": 550,
-            "name": "Basculin"
-        },
-        {
-            "id": 551,
-            "name": "Sandile"
-        },
-        {
-            "id": 552,
-            "name": "Krokorok"
-        },
-        {
-            "id": 553,
-            "name": "Krookodile"
         },
         {
             "id": 556,
@@ -158,18 +110,6 @@
             "name": "Vivillon"
         },
         {
-            "id": 669,
-            "name": "Flabébé"
-        },
-        {
-            "id": 670,
-            "name": "Floette"
-        },
-        {
-            "id": 671,
-            "name": "Florges"
-        },
-        {
             "id": 679,
             "name": "Honedge"
         },
@@ -210,18 +150,6 @@
             "name": "Volcanion"
         },
         {
-            "id": 725,
-            "name": "Litten"
-        },
-        {
-            "id": 726,
-            "name": "Torracat"
-        },
-        {
-            "id": 727,
-            "name": "Incineroar"
-        },
-        {
             "id": 728,
             "name": "Popplio"
         },
@@ -252,10 +180,6 @@
         {
             "id": 740,
             "name": "Crabominable"
-        },
-        {
-            "id": 741,
-            "name": "Oricorio"
         },
         {
             "id": 746,
@@ -776,10 +700,6 @@
         {
             "id": 902,
             "name": "Basculegion"
-        },
-        {
-            "id": 904,
-            "name": "Overqwil"
         },
         {
             "id": 905,

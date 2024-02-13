@@ -1,5 +1,5 @@
 {
-    "date": "2024-01-25T00:00:00.000Z",
+    "date": "2024-03-31T00:00:00.000Z",
     "items": [
         {
             "id": 489,
@@ -76,10 +76,6 @@
         {
             "id": 802,
             "name": "Marshadow"
-        },
-        {
-            "id": 803,
-            "name": "Poipole"
         },
         {
             "id": 804,
@@ -398,10 +394,6 @@
             "name": "Basculegion"
         },
         {
-            "id": 905,
-            "name": "Enamorus"
-        },
-        {
             "id": 917,
             "name": "Tarountula"
         },
@@ -440,18 +432,6 @@
         {
             "id": 934,
             "name": "Garganacl"
-        },
-        {
-            "id": 935,
-            "name": "Charcadet"
-        },
-        {
-            "id": 936,
-            "name": "Armarouge"
-        },
-        {
-            "id": 937,
-            "name": "Ceruledge"
         },
         {
             "id": 940,
