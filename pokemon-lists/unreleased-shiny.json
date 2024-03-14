@@ -1,5 +1,5 @@
 {
-    "date": "2024-02-28T00:00:00.000Z",
+    "date": "2024-03-31T00:00:00.000Z",
     "items": [
         {
             "id": 489,
@@ -28,18 +28,6 @@
         {
             "id": 542,
             "name": "Leavanny"
-        },
-        {
-            "id": 551,
-            "name": "Sandile"
-        },
-        {
-            "id": 552,
-            "name": "Krokorok"
-        },
-        {
-            "id": 553,
-            "name": "Krookodile"
         },
         {
             "id": 556,
@@ -122,18 +110,6 @@
             "name": "Vivillon"
         },
         {
-            "id": 669,
-            "name": "Flabébé"
-        },
-        {
-            "id": 670,
-            "name": "Floette"
-        },
-        {
-            "id": 671,
-            "name": "Florges"
-        },
-        {
             "id": 679,
             "name": "Honedge"
         },
@@ -172,18 +148,6 @@
         {
             "id": 721,
             "name": "Volcanion"
-        },
-        {
-            "id": 725,
-            "name": "Litten"
-        },
-        {
-            "id": 726,
-            "name": "Torracat"
-        },
-        {
-            "id": 727,
-            "name": "Incineroar"
         },
         {
             "id": 728,
