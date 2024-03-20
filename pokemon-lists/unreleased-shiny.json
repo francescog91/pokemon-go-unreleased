@@ -1,5 +1,5 @@
 {
-    "date": "2024-03-14T00:00:00.000Z",
+    "date": "2024-03-21T00:00:00.000Z",
     "items": [
         {
             "id": 489,
@@ -122,18 +122,6 @@
             "name": "Vivillon"
         },
         {
-            "id": 669,
-            "name": "Flabébé"
-        },
-        {
-            "id": 670,
-            "name": "Floette"
-        },
-        {
-            "id": 671,
-            "name": "Florges"
-        },
-        {
             "id": 679,
             "name": "Honedge"
         },
@@ -172,18 +160,6 @@
         {
             "id": 721,
             "name": "Volcanion"
-        },
-        {
-            "id": 725,
-            "name": "Litten"
-        },
-        {
-            "id": 726,
-            "name": "Torracat"
-        },
-        {
-            "id": 727,
-            "name": "Incineroar"
         },
         {
             "id": 728,
