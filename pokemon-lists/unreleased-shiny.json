@@ -1,5 +1,5 @@
 {
-    "date": "2024-03-31T00:00:00.000Z",
+    "date": "2024-05-31T00:00:00.000Z",
     "items": [
         {
             "id": 489,
@@ -186,14 +186,6 @@
             "name": "Wishiwashi"
         },
         {
-            "id": 747,
-            "name": "Mareanie"
-        },
-        {
-            "id": 748,
-            "name": "Toxapex"
-        },
-        {
             "id": 749,
             "name": "Mudbray"
         },
@@ -210,32 +202,12 @@
             "name": "Salazzle"
         },
         {
-            "id": 761,
-            "name": "Bounsweet"
-        },
-        {
-            "id": 762,
-            "name": "Steenee"
-        },
-        {
-            "id": 763,
-            "name": "Tsareena"
-        },
-        {
             "id": 764,
             "name": "Comfey"
         },
         {
             "id": 766,
             "name": "Passimian"
-        },
-        {
-            "id": 767,
-            "name": "Wimpod"
-        },
-        {
-            "id": 768,
-            "name": "Golisopod"
         },
         {
             "id": 769,
@@ -316,22 +288,6 @@
         {
             "id": 795,
             "name": "Pheromosa"
-        },
-        {
-            "id": 796,
-            "name": "Xurkitree"
-        },
-        {
-            "id": 797,
-            "name": "Celesteela"
-        },
-        {
-            "id": 798,
-            "name": "Kartana"
-        },
-        {
-            "id": 800,
-            "name": "Necrozma"
         },
         {
             "id": 801,

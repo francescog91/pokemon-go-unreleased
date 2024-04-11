@@ -1,5 +1,5 @@
 {
-    "date": "2024-03-31T00:00:00.000Z",
+    "date": "2024-05-31T00:00:00.000Z",
     "items": [
         {
             "id": 489,
@@ -66,28 +66,8 @@
             "name": "Dhelmise"
         },
         {
-            "id": 800,
-            "name": "Necrozma"
-        },
-        {
             "id": 801,
             "name": "Magearna"
-        },
-        {
-            "id": 802,
-            "name": "Marshadow"
-        },
-        {
-            "id": 804,
-            "name": "Naganadel"
-        },
-        {
-            "id": 805,
-            "name": "Stakataka"
-        },
-        {
-            "id": 806,
-            "name": "Blacephalon"
         },
         {
             "id": 807,
@@ -512,14 +492,6 @@
         {
             "id": 959,
             "name": "Tinkaton"
-        },
-        {
-            "id": 960,
-            "name": "Wiglett"
-        },
-        {
-            "id": 961,
-            "name": "Wugtrio"
         },
         {
             "id": 963,
