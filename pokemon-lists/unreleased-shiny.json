@@ -1,5 +1,5 @@
 {
-    "date": "2024-04-11T00:00:00.000Z",
+    "date": "2024-05-31T00:00:00.000Z",
     "items": [
         {
             "id": 489,
@@ -186,14 +186,6 @@
             "name": "Wishiwashi"
         },
         {
-            "id": 747,
-            "name": "Mareanie"
-        },
-        {
-            "id": 748,
-            "name": "Toxapex"
-        },
-        {
             "id": 749,
             "name": "Mudbray"
         },
@@ -208,18 +200,6 @@
         {
             "id": 758,
             "name": "Salazzle"
-        },
-        {
-            "id": 761,
-            "name": "Bounsweet"
-        },
-        {
-            "id": 762,
-            "name": "Steenee"
-        },
-        {
-            "id": 763,
-            "name": "Tsareena"
         },
         {
             "id": 764,
@@ -308,14 +288,6 @@
         {
             "id": 795,
             "name": "Pheromosa"
-        },
-        {
-            "id": 796,
-            "name": "Xurkitree"
-        },
-        {
-            "id": 800,
-            "name": "Necrozma"
         },
         {
             "id": 801,
