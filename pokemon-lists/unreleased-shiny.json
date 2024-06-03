@@ -1,5 +1,5 @@
 {
-    "date": "2024-05-31T00:00:00.000Z",
+    "date": "2024-07-24T00:00:00.000Z",
     "items": [
         {
             "id": 489,
@@ -38,36 +38,12 @@
             "name": "Sigilyph"
         },
         {
-            "id": 580,
-            "name": "Ducklett"
-        },
-        {
-            "id": 581,
-            "name": "Swanna"
-        },
-        {
             "id": 585,
             "name": "Deerling"
         },
         {
             "id": 586,
             "name": "Sawsbuck"
-        },
-        {
-            "id": 587,
-            "name": "Emolga"
-        },
-        {
-            "id": 602,
-            "name": "Tynamo"
-        },
-        {
-            "id": 603,
-            "name": "Eelektrik"
-        },
-        {
-            "id": 604,
-            "name": "Eelektross"
         },
         {
             "id": 619,
@@ -80,14 +56,6 @@
         {
             "id": 626,
             "name": "Bouffalant"
-        },
-        {
-            "id": 636,
-            "name": "Larvesta"
-        },
-        {
-            "id": 637,
-            "name": "Volcarona"
         },
         {
             "id": 647,
@@ -174,14 +142,6 @@
             "name": "Toucannon"
         },
         {
-            "id": 739,
-            "name": "Crabrawler"
-        },
-        {
-            "id": 740,
-            "name": "Crabominable"
-        },
-        {
             "id": 746,
             "name": "Wishiwashi"
         },
@@ -234,10 +194,6 @@
             "name": "Minior"
         },
         {
-            "id": 775,
-            "name": "Komala"
-        },
-        {
             "id": 777,
             "name": "Togedemaru"
         },
@@ -254,18 +210,6 @@
             "name": "Dhelmise"
         },
         {
-            "id": 782,
-            "name": "Jangmo-o"
-        },
-        {
-            "id": 783,
-            "name": "Hakamo-o"
-        },
-        {
-            "id": 784,
-            "name": "Kommo-o"
-        },
-        {
             "id": 789,
             "name": "Cosmog"
         },
@@ -280,14 +224,6 @@
         {
             "id": 792,
             "name": "Lunala"
-        },
-        {
-            "id": 794,
-            "name": "Buzzwole"
-        },
-        {
-            "id": 795,
-            "name": "Pheromosa"
         },
         {
             "id": 801,
