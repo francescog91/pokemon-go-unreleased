@@ -1,5 +1,5 @@
 {
-    "date": "2024-08-17T00:00:00.000Z",
+    "date": "2024-09-03T00:00:00.000Z",
     "items": [
         {
             "id": 489,
@@ -72,42 +72,6 @@
         {
             "id": 807,
             "name": "Zeraora"
-        },
-        {
-            "id": 810,
-            "name": "Grookey"
-        },
-        {
-            "id": 811,
-            "name": "Thwackey"
-        },
-        {
-            "id": 812,
-            "name": "Rillaboom"
-        },
-        {
-            "id": 813,
-            "name": "Scorbunny"
-        },
-        {
-            "id": 814,
-            "name": "Raboot"
-        },
-        {
-            "id": 815,
-            "name": "Cinderace"
-        },
-        {
-            "id": 816,
-            "name": "Sobble"
-        },
-        {
-            "id": 817,
-            "name": "Drizzile"
-        },
-        {
-            "id": 818,
-            "name": "Inteleon"
         },
         {
             "id": 821,
@@ -290,10 +254,6 @@
             "name": "Frosmoth"
         },
         {
-            "id": 874,
-            "name": "Stonjourner"
-        },
-        {
             "id": 875,
             "name": "Eiscue"
         },
@@ -332,18 +292,6 @@
         {
             "id": 884,
             "name": "Duraludon"
-        },
-        {
-            "id": 885,
-            "name": "Dreepy"
-        },
-        {
-            "id": 886,
-            "name": "Drakloak"
-        },
-        {
-            "id": 887,
-            "name": "Dragapult"
         },
         {
             "id": 890,
