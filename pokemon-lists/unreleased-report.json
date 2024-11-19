@@ -1,5 +1,5 @@
 {
-  "date": "2024-11-06",
+  "date": "2024-11-19",
   "items": [
     {
       "id": 489,
@@ -695,13 +695,6 @@
       "isShinyReleased": false
     },
     {
-      "id": 864,
-      "name": "Cursola",
-      "region": "Galar",
-      "isReleased": false,
-      "isShinyReleased": false
-    },
-    {
       "id": 868,
       "name": "Milcery",
       "region": "Galar",
@@ -858,20 +851,6 @@
     {
       "id": 893,
       "name": "Zarude",
-      "region": "Galar",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 894,
-      "name": "Regieleki",
-      "region": "Galar",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 895,
-      "name": "Regidrago",
       "region": "Galar",
       "isReleased": true,
       "isShinyReleased": false
