@@ -1,5 +1,5 @@
 {
-  "date": "2024-11-19",
+  "date": "2024-11-27",
   "items": [
     {
       "id": 489,
@@ -642,14 +642,14 @@
       "id": 854,
       "name": "Sinistea",
       "region": "Galar",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
       "id": 855,
       "name": "Polteageist",
       "region": "Galar",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
