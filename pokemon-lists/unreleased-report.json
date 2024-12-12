@@ -1,5 +1,5 @@
 {
-  "date": "2024-11-27",
+  "date": "2024-12-12",
   "items": [
     {
       "id": 489,
@@ -228,20 +228,6 @@
     {
       "id": 764,
       "name": "Comfey",
-      "region": "Alola",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 769,
-      "name": "Sandygast",
-      "region": "Alola",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 770,
-      "name": "Palossand",
       "region": "Alola",
       "isReleased": true,
       "isShinyReleased": false
@@ -1322,20 +1308,6 @@
       "name": "Flamigo",
       "region": "Paldea",
       "isReleased": false,
-      "isShinyReleased": false
-    },
-    {
-      "id": 974,
-      "name": "Cetoddle",
-      "region": "Paldea",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 975,
-      "name": "Cetitan",
-      "region": "Paldea",
-      "isReleased": true,
       "isShinyReleased": false
     },
     {
