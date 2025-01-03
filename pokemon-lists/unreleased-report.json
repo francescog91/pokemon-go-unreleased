@@ -1,0 +1,1629 @@
+{
+  "date": "2025-01-04",
+  "items": [
+    {
+      "id": 489,
+      "name": "Phione",
+      "region": "Sinnoh",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 490,
+      "name": "Manaphy",
+      "region": "Sinnoh",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 493,
+      "name": "Arceus",
+      "region": "Sinnoh",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 494,
+      "name": "Victini",
+      "region": "Unova",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 556,
+      "name": "Maractus",
+      "region": "Unova",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 561,
+      "name": "Sigilyph",
+      "region": "Unova",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 585,
+      "name": "Deerling",
+      "region": "Unova",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 586,
+      "name": "Sawsbuck",
+      "region": "Unova",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 626,
+      "name": "Bouffalant",
+      "region": "Unova",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 647,
+      "name": "Keldeo",
+      "region": "Unova",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 648,
+      "name": "Meloetta",
+      "region": "Unova",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 664,
+      "name": "Scatterbug",
+      "region": "Kalos",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 665,
+      "name": "Spewpa",
+      "region": "Kalos",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 666,
+      "name": "Vivillon",
+      "region": "Kalos",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 679,
+      "name": "Honedge",
+      "region": "Kalos",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 680,
+      "name": "Doublade",
+      "region": "Kalos",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 681,
+      "name": "Aegislash",
+      "region": "Kalos",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 701,
+      "name": "Hawlucha",
+      "region": "Kalos",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 703,
+      "name": "Carbink",
+      "region": "Kalos",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 707,
+      "name": "Klefki",
+      "region": "Kalos",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 718,
+      "name": "Zygarde",
+      "region": "Kalos",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 719,
+      "name": "Diancie",
+      "region": "Kalos",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 720,
+      "name": "Hoopa",
+      "region": "Kalos",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 721,
+      "name": "Volcanion",
+      "region": "Kalos",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 731,
+      "name": "Pikipek",
+      "region": "Alola",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 732,
+      "name": "Trumbeak",
+      "region": "Alola",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 733,
+      "name": "Toucannon",
+      "region": "Alola",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 746,
+      "name": "Wishiwashi",
+      "region": "Alola",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 749,
+      "name": "Mudbray",
+      "region": "Alola",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 750,
+      "name": "Mudsdale",
+      "region": "Alola",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 757,
+      "name": "Salandit",
+      "region": "Alola",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 758,
+      "name": "Salazzle",
+      "region": "Alola",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 764,
+      "name": "Comfey",
+      "region": "Alola",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 771,
+      "name": "Pyukumuku",
+      "region": "Alola",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 772,
+      "name": "Type: Null",
+      "region": "Alola",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 773,
+      "name": "Silvally",
+      "region": "Alola",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 774,
+      "name": "Minior",
+      "region": "Alola",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 778,
+      "name": "Mimikyu",
+      "region": "Alola",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 779,
+      "name": "Bruxish",
+      "region": "Alola",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 781,
+      "name": "Dhelmise",
+      "region": "Alola",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 789,
+      "name": "Cosmog",
+      "region": "Alola",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 790,
+      "name": "Cosmoem",
+      "region": "Alola",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 791,
+      "name": "Solgaleo",
+      "region": "Alola",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 792,
+      "name": "Lunala",
+      "region": "Alola",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 801,
+      "name": "Magearna",
+      "region": "Alola",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 802,
+      "name": "Marshadow",
+      "region": "Alola",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 803,
+      "name": "Poipole",
+      "region": "Alola",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 804,
+      "name": "Naganadel",
+      "region": "Alola",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 805,
+      "name": "Stakataka",
+      "region": "Alola",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 806,
+      "name": "Blacephalon",
+      "region": "Alola",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 807,
+      "name": "Zeraora",
+      "region": "Alola",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 810,
+      "name": "Grookey",
+      "region": "Galar",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 811,
+      "name": "Thwackey",
+      "region": "Galar",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 812,
+      "name": "Rillaboom",
+      "region": "Galar",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 813,
+      "name": "Scorbunny",
+      "region": "Galar",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 814,
+      "name": "Raboot",
+      "region": "Galar",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 815,
+      "name": "Cinderace",
+      "region": "Galar",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 816,
+      "name": "Sobble",
+      "region": "Galar",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 817,
+      "name": "Drizzile",
+      "region": "Galar",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 818,
+      "name": "Inteleon",
+      "region": "Galar",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 821,
+      "name": "Rookidee",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 822,
+      "name": "Corvisquire",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 823,
+      "name": "Corviknight",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 824,
+      "name": "Blipbug",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 825,
+      "name": "Dottler",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 826,
+      "name": "Orbeetle",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 827,
+      "name": "Nickit",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 828,
+      "name": "Thievul",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 829,
+      "name": "Gossifleur",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 830,
+      "name": "Eldegoss",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 833,
+      "name": "Chewtle",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 834,
+      "name": "Drednaw",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 835,
+      "name": "Yamper",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 836,
+      "name": "Boltund",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 837,
+      "name": "Rolycoly",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 838,
+      "name": "Carkol",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 839,
+      "name": "Coalossal",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 840,
+      "name": "Applin",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 841,
+      "name": "Flapple",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 842,
+      "name": "Appletun",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 843,
+      "name": "Silicobra",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 844,
+      "name": "Sandaconda",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 845,
+      "name": "Cramorant",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 846,
+      "name": "Arrokuda",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 847,
+      "name": "Barraskewda",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 850,
+      "name": "Sizzlipede",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 851,
+      "name": "Centiskorch",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 852,
+      "name": "Clobbopus",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 853,
+      "name": "Grapploct",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 854,
+      "name": "Sinistea",
+      "region": "Galar",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 855,
+      "name": "Polteageist",
+      "region": "Galar",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 856,
+      "name": "Hatenna",
+      "region": "Galar",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 857,
+      "name": "Hattrem",
+      "region": "Galar",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 858,
+      "name": "Hatterene",
+      "region": "Galar",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 859,
+      "name": "Impidimp",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 860,
+      "name": "Morgrem",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 861,
+      "name": "Grimmsnarl",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 868,
+      "name": "Milcery",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 869,
+      "name": "Alcremie",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 871,
+      "name": "Pincurchin",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 872,
+      "name": "Snom",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 873,
+      "name": "Frosmoth",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 874,
+      "name": "Stonjourner",
+      "region": "Galar",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 875,
+      "name": "Eiscue",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 876,
+      "name": "Indeedee",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 877,
+      "name": "Morpeko",
+      "region": "Galar",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 878,
+      "name": "Cufant",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 879,
+      "name": "Copperajah",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 880,
+      "name": "Dracozolt",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 881,
+      "name": "Arctozolt",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 882,
+      "name": "Dracovish",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 883,
+      "name": "Arctovish",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 884,
+      "name": "Duraludon",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 885,
+      "name": "Dreepy",
+      "region": "Galar",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 886,
+      "name": "Drakloak",
+      "region": "Galar",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 887,
+      "name": "Dragapult",
+      "region": "Galar",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 890,
+      "name": "Eternatus",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 891,
+      "name": "Kubfu",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 892,
+      "name": "Urshifu",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 893,
+      "name": "Zarude",
+      "region": "Galar",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 896,
+      "name": "Glastrier",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 897,
+      "name": "Spectrier",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 898,
+      "name": "Calyrex",
+      "region": "Galar",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 902,
+      "name": "Basculegion",
+      "region": "Hisui",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 905,
+      "name": "Enamorus",
+      "region": "Hisui",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 909,
+      "name": "Fuecoco",
+      "region": "Paldea",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 910,
+      "name": "Crocalor",
+      "region": "Paldea",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 911,
+      "name": "Skeledirge",
+      "region": "Paldea",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 912,
+      "name": "Quaxly",
+      "region": "Paldea",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 913,
+      "name": "Quaxwell",
+      "region": "Paldea",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 914,
+      "name": "Quaquaval",
+      "region": "Paldea",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 917,
+      "name": "Tarountula",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 918,
+      "name": "Spidops",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 919,
+      "name": "Nymble",
+      "region": "Paldea",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 920,
+      "name": "Lokix",
+      "region": "Paldea",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 921,
+      "name": "Pawmi",
+      "region": "Paldea",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 922,
+      "name": "Pawmo",
+      "region": "Paldea",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 923,
+      "name": "Pawmot",
+      "region": "Paldea",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 924,
+      "name": "Tandemaus",
+      "region": "Paldea",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 925,
+      "name": "Maushold",
+      "region": "Paldea",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 926,
+      "name": "Fidough",
+      "region": "Paldea",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 927,
+      "name": "Dachsbun",
+      "region": "Paldea",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 931,
+      "name": "Squawkabilly",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 932,
+      "name": "Nacli",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 933,
+      "name": "Naclstack",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 934,
+      "name": "Garganacl",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 935,
+      "name": "Charcadet",
+      "region": "Paldea",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 936,
+      "name": "Armarouge",
+      "region": "Paldea",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 937,
+      "name": "Ceruledge",
+      "region": "Paldea",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 938,
+      "name": "Tadbulb",
+      "region": "Paldea",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 939,
+      "name": "Bellibolt",
+      "region": "Paldea",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 940,
+      "name": "Wattrel",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 941,
+      "name": "Kilowattrel",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 942,
+      "name": "Maschiff",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 943,
+      "name": "Mabosstiff",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 944,
+      "name": "Shroodle",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 945,
+      "name": "Grafaiai",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 946,
+      "name": "Bramblin",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 947,
+      "name": "Brambleghast",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 948,
+      "name": "Toedscool",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 949,
+      "name": "Toedscruel",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 950,
+      "name": "Klawf",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 951,
+      "name": "Capsakid",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 952,
+      "name": "Scovillain",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 953,
+      "name": "Rellor",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 954,
+      "name": "Rabsca",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 955,
+      "name": "Flittle",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 956,
+      "name": "Espathra",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 957,
+      "name": "Tinkatink",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 958,
+      "name": "Tinkatuff",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 959,
+      "name": "Tinkaton",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 960,
+      "name": "Wiglett",
+      "region": "Paldea",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 961,
+      "name": "Wugtrio",
+      "region": "Paldea",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 963,
+      "name": "Finizen",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 964,
+      "name": "Palafin",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 965,
+      "name": "Varoom",
+      "region": "Paldea",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 966,
+      "name": "Revavroom",
+      "region": "Paldea",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 967,
+      "name": "Cyclizar",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 968,
+      "name": "Orthworm",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 969,
+      "name": "Glimmet",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 970,
+      "name": "Glimmora",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 971,
+      "name": "Greavard",
+      "region": "Paldea",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 972,
+      "name": "Houndstone",
+      "region": "Paldea",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 973,
+      "name": "Flamigo",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 976,
+      "name": "Veluza",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 977,
+      "name": "Dondozo",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 978,
+      "name": "Tatsugiri",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 981,
+      "name": "Farigiraf",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 982,
+      "name": "Dudunsparce",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 983,
+      "name": "Kingambit",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 984,
+      "name": "Great Tusk",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 985,
+      "name": "Scream Tail",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 986,
+      "name": "Brute Bonnet",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 987,
+      "name": "Flutter Mane",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 988,
+      "name": "Slither Wing",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 989,
+      "name": "Sandy Shocks",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 990,
+      "name": "Iron Treads",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 991,
+      "name": "Iron Bundle",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 992,
+      "name": "Iron Hands",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 993,
+      "name": "Iron Jugulis",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 994,
+      "name": "Iron Moth",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 995,
+      "name": "Iron Thorns",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 996,
+      "name": "Frigibax",
+      "region": "Paldea",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 997,
+      "name": "Arctibax",
+      "region": "Paldea",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 998,
+      "name": "Baxcalibur",
+      "region": "Paldea",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 999,
+      "name": "Gimmighoul",
+      "region": "Paldea",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 1000,
+      "name": "Gholdengo",
+      "region": "Paldea",
+      "isReleased": true,
+      "isShinyReleased": false
+    },
+    {
+      "id": 1001,
+      "name": "Wo-Chien",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 1002,
+      "name": "Chien-Pao",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 1003,
+      "name": "Ting-Lu",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 1004,
+      "name": "Chi-Yu",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 1005,
+      "name": "Roaring Moon",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 1006,
+      "name": "Iron Valiant",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 1007,
+      "name": "Koraidon",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 1008,
+      "name": "Miraidon",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 1009,
+      "name": "Walking Wake",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 1010,
+      "name": "Iron Leaves",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 1011,
+      "name": "Dipplin",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 1012,
+      "name": "Poltchageist",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 1013,
+      "name": "Sinistcha",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 1014,
+      "name": "Okidogi",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 1015,
+      "name": "Munkidori",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 1016,
+      "name": "Fezandipiti",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 1017,
+      "name": "Ogerpon",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 1018,
+      "name": "Archaludon",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 1019,
+      "name": "Hydrapple",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 1020,
+      "name": "Gouging Fire",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 1021,
+      "name": "Raging Bolt",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 1022,
+      "name": "Iron Boulder",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 1023,
+      "name": "Iron Crown",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 1024,
+      "name": "Terapagos",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    },
+    {
+      "id": 1025,
+      "name": "Pecharunt",
+      "region": "Paldea",
+      "isReleased": false,
+      "isShinyReleased": false
+    }
+  ]
+}
