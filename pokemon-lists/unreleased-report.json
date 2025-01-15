@@ -1,5 +1,5 @@
 {
-  "date": "2025-01-04",
+  "date": "2025-01-15",
   "items": [
     {
       "id": 489,
@@ -1090,14 +1090,14 @@
       "id": 944,
       "name": "Shroodle",
       "region": "Paldea",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
       "id": 945,
       "name": "Grafaiai",
       "region": "Paldea",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {

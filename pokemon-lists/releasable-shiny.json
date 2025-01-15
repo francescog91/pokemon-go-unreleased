@@ -1,5 +1,5 @@
 {
-  "date": "2025-01-04",
+  "date": "2025-01-15",
   "items": [
     {
       "id": 494,
@@ -296,6 +296,14 @@
     {
       "id": 939,
       "name": "Bellibolt"
+    },
+    {
+      "id": 944,
+      "name": "Shroodle"
+    },
+    {
+      "id": 945,
+      "name": "Grafaiai"
     },
     {
       "id": 960,
