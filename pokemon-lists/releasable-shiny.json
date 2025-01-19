@@ -1,5 +1,5 @@
 {
-  "date": "2025-01-15",
+  "date": "2025-01-21",
   "items": [
     {
       "id": 494,
@@ -168,6 +168,18 @@
     {
       "id": 818,
       "name": "Inteleon"
+    },
+    {
+      "id": 821,
+      "name": "Rookidee"
+    },
+    {
+      "id": 822,
+      "name": "Corvisquire"
+    },
+    {
+      "id": 823,
+      "name": "Corviknight"
     },
     {
       "id": 854,

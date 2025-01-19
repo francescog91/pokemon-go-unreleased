@@ -1,5 +1,5 @@
 {
-  "date": "2025-01-15",
+  "date": "2025-01-21",
   "items": [
     {
       "id": 489,
@@ -425,21 +425,21 @@
       "id": 821,
       "name": "Rookidee",
       "region": "Galar",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
       "id": 822,
       "name": "Corvisquire",
       "region": "Galar",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
       "id": 823,
       "name": "Corviknight",
       "region": "Galar",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
