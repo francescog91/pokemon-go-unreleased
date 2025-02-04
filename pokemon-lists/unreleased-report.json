@@ -1,5 +1,5 @@
 {
-  "date": "2025-01-21",
+  "date": "2025-02-05",
   "items": [
     {
       "id": 489,
@@ -930,20 +930,6 @@
       "name": "Spidops",
       "region": "Paldea",
       "isReleased": false,
-      "isShinyReleased": false
-    },
-    {
-      "id": 919,
-      "name": "Nymble",
-      "region": "Paldea",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 920,
-      "name": "Lokix",
-      "region": "Paldea",
-      "isReleased": true,
       "isShinyReleased": false
     },
     {
