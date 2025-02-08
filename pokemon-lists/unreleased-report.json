@@ -1,5 +1,5 @@
 {
-  "date": "2025-02-05",
+  "date": "2025-02-28",
   "items": [
     {
       "id": 489,
@@ -30,72 +30,9 @@
       "isShinyReleased": false
     },
     {
-      "id": 556,
-      "name": "Maractus",
-      "region": "Unova",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 561,
-      "name": "Sigilyph",
-      "region": "Unova",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 585,
-      "name": "Deerling",
-      "region": "Unova",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 586,
-      "name": "Sawsbuck",
-      "region": "Unova",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 626,
-      "name": "Bouffalant",
-      "region": "Unova",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
       "id": 647,
       "name": "Keldeo",
       "region": "Unova",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 648,
-      "name": "Meloetta",
-      "region": "Unova",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 664,
-      "name": "Scatterbug",
-      "region": "Kalos",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 665,
-      "name": "Spewpa",
-      "region": "Kalos",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 666,
-      "name": "Vivillon",
-      "region": "Kalos",
       "isReleased": true,
       "isShinyReleased": false
     },
@@ -278,7 +215,7 @@
       "id": 781,
       "name": "Dhelmise",
       "region": "Alola",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
