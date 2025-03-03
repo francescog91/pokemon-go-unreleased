@@ -1,5 +1,5 @@
 {
-  "date": "2025-02-28",
+  "date": "2025-03-08",
   "items": [
     {
       "id": 494,
@@ -190,24 +190,16 @@
       "name": "Dragapult"
     },
     {
+      "id": 891,
+      "name": "Kubfu"
+    },
+    {
       "id": 893,
       "name": "Zarude"
     },
     {
       "id": 905,
       "name": "Enamorus"
-    },
-    {
-      "id": 909,
-      "name": "Fuecoco"
-    },
-    {
-      "id": 910,
-      "name": "Crocalor"
-    },
-    {
-      "id": 911,
-      "name": "Skeledirge"
     },
     {
       "id": 912,
@@ -248,18 +240,6 @@
     {
       "id": 927,
       "name": "Dachsbun"
-    },
-    {
-      "id": 935,
-      "name": "Charcadet"
-    },
-    {
-      "id": 936,
-      "name": "Armarouge"
-    },
-    {
-      "id": 937,
-      "name": "Ceruledge"
     },
     {
       "id": 938,

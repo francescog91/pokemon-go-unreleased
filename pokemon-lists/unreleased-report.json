@@ -1,5 +1,5 @@
 {
-  "date": "2025-02-28",
+  "date": "2025-03-08",
   "items": [
     {
       "id": 489,
@@ -761,7 +761,7 @@
       "id": 891,
       "name": "Kubfu",
       "region": "Galar",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
@@ -810,27 +810,6 @@
       "id": 905,
       "name": "Enamorus",
       "region": "Hisui",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 909,
-      "name": "Fuecoco",
-      "region": "Paldea",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 910,
-      "name": "Crocalor",
-      "region": "Paldea",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 911,
-      "name": "Skeledirge",
-      "region": "Paldea",
       "isReleased": true,
       "isShinyReleased": false
     },
@@ -944,27 +923,6 @@
       "name": "Garganacl",
       "region": "Paldea",
       "isReleased": false,
-      "isShinyReleased": false
-    },
-    {
-      "id": 935,
-      "name": "Charcadet",
-      "region": "Paldea",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 936,
-      "name": "Armarouge",
-      "region": "Paldea",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 937,
-      "name": "Ceruledge",
-      "region": "Paldea",
-      "isReleased": true,
       "isShinyReleased": false
     },
     {
