@@ -1,5 +1,5 @@
 {
-  "date": "2025-03-08",
+  "date": "2025-03-19",
   "items": [
     {
       "id": 489,
@@ -205,13 +205,6 @@
       "isShinyReleased": false
     },
     {
-      "id": 779,
-      "name": "Bruxish",
-      "region": "Alola",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
       "id": 781,
       "name": "Dhelmise",
       "region": "Alola",
@@ -404,14 +397,14 @@
       "id": 827,
       "name": "Nickit",
       "region": "Galar",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
       "id": 828,
       "name": "Thievul",
       "region": "Galar",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {

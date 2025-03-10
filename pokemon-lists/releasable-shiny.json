@@ -1,5 +1,5 @@
 {
-  "date": "2025-03-08",
+  "date": "2025-03-19",
   "items": [
     {
       "id": 494,
@@ -56,10 +56,6 @@
     {
       "id": 764,
       "name": "Comfey"
-    },
-    {
-      "id": 779,
-      "name": "Bruxish"
     },
     {
       "id": 781,
@@ -148,6 +144,14 @@
     {
       "id": 823,
       "name": "Corviknight"
+    },
+    {
+      "id": 827,
+      "name": "Nickit"
+    },
+    {
+      "id": 828,
+      "name": "Thievul"
     },
     {
       "id": 854,
