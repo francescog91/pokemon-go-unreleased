@@ -1,5 +1,5 @@
 {
-  "date": "2025-03-19",
+  "date": "2025-03-31",
   "items": [
     {
       "id": 494,
@@ -152,6 +152,14 @@
     {
       "id": 828,
       "name": "Thievul"
+    },
+    {
+      "id": 850,
+      "name": "Sizzlipede"
+    },
+    {
+      "id": 851,
+      "name": "Centiskorch"
     },
     {
       "id": 854,

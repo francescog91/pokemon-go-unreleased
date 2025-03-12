@@ -1,5 +1,5 @@
 {
-  "date": "2025-03-19",
+  "date": "2025-03-31",
   "items": [
     {
       "id": 489,
@@ -130,20 +130,6 @@
     {
       "id": 746,
       "name": "Wishiwashi",
-      "region": "Alola",
-      "isReleased": false,
-      "isShinyReleased": false
-    },
-    {
-      "id": 749,
-      "name": "Mudbray",
-      "region": "Alola",
-      "isReleased": false,
-      "isShinyReleased": false
-    },
-    {
-      "id": 750,
-      "name": "Mudsdale",
       "region": "Alola",
       "isReleased": false,
       "isShinyReleased": false
@@ -530,14 +516,14 @@
       "id": 850,
       "name": "Sizzlipede",
       "region": "Galar",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
       "id": 851,
       "name": "Centiskorch",
       "region": "Galar",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
