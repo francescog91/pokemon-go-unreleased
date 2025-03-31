@@ -1,5 +1,5 @@
 {
-  "date": "2025-03-31",
+  "date": "2025-04-09",
   "items": [
     {
       "id": 494,
@@ -90,14 +90,6 @@
       "name": "Naganadel"
     },
     {
-      "id": 805,
-      "name": "Stakataka"
-    },
-    {
-      "id": 806,
-      "name": "Blacephalon"
-    },
-    {
       "id": 810,
       "name": "Grookey"
     },
@@ -152,6 +144,14 @@
     {
       "id": 828,
       "name": "Thievul"
+    },
+    {
+      "id": 829,
+      "name": "Gossifleur"
+    },
+    {
+      "id": 830,
+      "name": "Eldegoss"
     },
     {
       "id": 850,

@@ -1,5 +1,5 @@
 {
-  "date": "2025-03-31",
+  "date": "2025-04-09",
   "items": [
     {
       "id": 489,
@@ -254,20 +254,6 @@
       "isShinyReleased": false
     },
     {
-      "id": 805,
-      "name": "Stakataka",
-      "region": "Alola",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 806,
-      "name": "Blacephalon",
-      "region": "Alola",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
       "id": 807,
       "name": "Zeraora",
       "region": "Alola",
@@ -397,14 +383,14 @@
       "id": 829,
       "name": "Gossifleur",
       "region": "Galar",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
       "id": 830,
       "name": "Eldegoss",
       "region": "Galar",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
