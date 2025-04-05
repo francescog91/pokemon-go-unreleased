@@ -1,5 +1,5 @@
 {
-  "date": "2025-04-09",
+  "date": "2025-04-16",
   "items": [
     {
       "id": 489,
@@ -1027,21 +1027,21 @@
       "id": 957,
       "name": "Tinkatink",
       "region": "Paldea",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
       "id": 958,
       "name": "Tinkatuff",
       "region": "Paldea",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
       "id": 959,
       "name": "Tinkaton",
       "region": "Paldea",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
