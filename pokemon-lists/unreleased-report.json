@@ -1,5 +1,5 @@
 {
-  "date": "2025-04-16",
+  "date": "2025-04-24",
   "items": [
     {
       "id": 489,
@@ -446,21 +446,21 @@
       "id": 840,
       "name": "Applin",
       "region": "Galar",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
       "id": 841,
       "name": "Flapple",
       "region": "Galar",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
       "id": 842,
       "name": "Appletun",
       "region": "Galar",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {

@@ -1,5 +1,5 @@
 {
-  "date": "2025-04-16",
+  "date": "2025-04-24",
   "items": [
     {
       "id": 494,
@@ -152,6 +152,18 @@
     {
       "id": 830,
       "name": "Eldegoss"
+    },
+    {
+      "id": 840,
+      "name": "Applin"
+    },
+    {
+      "id": 841,
+      "name": "Flapple"
+    },
+    {
+      "id": 842,
+      "name": "Appletun"
     },
     {
       "id": 850,
