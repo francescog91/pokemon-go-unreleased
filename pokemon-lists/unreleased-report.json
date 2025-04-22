@@ -1,5 +1,5 @@
 {
-  "date": "2025-04-24",
+  "date": "2025-05-10",
   "items": [
     {
       "id": 489,
@@ -1166,13 +1166,6 @@
     {
       "id": 982,
       "name": "Dudunsparce",
-      "region": "Paldea",
-      "isReleased": false,
-      "isShinyReleased": false
-    },
-    {
-      "id": 983,
-      "name": "Kingambit",
       "region": "Paldea",
       "isReleased": false,
       "isShinyReleased": false
