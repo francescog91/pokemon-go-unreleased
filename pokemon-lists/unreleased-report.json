@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-10",
+  "date": "2025-05-11",
   "items": [
     {
       "id": 489,
@@ -811,27 +811,6 @@
       "name": "Spidops",
       "region": "Paldea",
       "isReleased": false,
-      "isShinyReleased": false
-    },
-    {
-      "id": 921,
-      "name": "Pawmi",
-      "region": "Paldea",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 922,
-      "name": "Pawmo",
-      "region": "Paldea",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 923,
-      "name": "Pawmot",
-      "region": "Paldea",
-      "isReleased": true,
       "isShinyReleased": false
     },
     {
