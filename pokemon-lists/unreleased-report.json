@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-11",
+  "date": "2025-05-21",
   "items": [
     {
       "id": 489,
@@ -733,7 +733,7 @@
       "id": 892,
       "name": "Urshifu",
       "region": "Galar",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
