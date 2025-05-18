@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-11",
+  "date": "2025-05-29",
   "items": [
     {
       "id": 489,
@@ -65,13 +65,6 @@
       "isShinyReleased": false
     },
     {
-      "id": 703,
-      "name": "Carbink",
-      "region": "Kalos",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
       "id": 707,
       "name": "Klefki",
       "region": "Kalos",
@@ -103,7 +96,7 @@
       "id": 721,
       "name": "Volcanion",
       "region": "Kalos",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
@@ -733,7 +726,7 @@
       "id": 892,
       "name": "Urshifu",
       "region": "Galar",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
@@ -1231,27 +1224,6 @@
       "name": "Iron Thorns",
       "region": "Paldea",
       "isReleased": false,
-      "isShinyReleased": false
-    },
-    {
-      "id": 996,
-      "name": "Frigibax",
-      "region": "Paldea",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 997,
-      "name": "Arctibax",
-      "region": "Paldea",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 998,
-      "name": "Baxcalibur",
-      "region": "Paldea",
-      "isReleased": true,
       "isShinyReleased": false
     },
     {

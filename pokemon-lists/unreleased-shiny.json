@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-11",
+  "date": "2025-05-29",
   "items": [
     {
       "id": 489,
@@ -36,10 +36,6 @@
     {
       "id": 701,
       "name": "Hawlucha"
-    },
-    {
-      "id": 703,
-      "name": "Carbink"
     },
     {
       "id": 707,
@@ -704,18 +700,6 @@
     {
       "id": 995,
       "name": "Iron Thorns"
-    },
-    {
-      "id": 996,
-      "name": "Frigibax"
-    },
-    {
-      "id": 997,
-      "name": "Arctibax"
-    },
-    {
-      "id": 998,
-      "name": "Baxcalibur"
     },
     {
       "id": 999,

@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-11",
+  "date": "2025-05-29",
   "items": [
     {
       "id": 494,
@@ -12,10 +12,6 @@
     {
       "id": 701,
       "name": "Hawlucha"
-    },
-    {
-      "id": 703,
-      "name": "Carbink"
     },
     {
       "id": 707,
@@ -32,6 +28,10 @@
     {
       "id": 720,
       "name": "Hoopa"
+    },
+    {
+      "id": 721,
+      "name": "Volcanion"
     },
     {
       "id": 731,
@@ -218,6 +218,10 @@
       "name": "Kubfu"
     },
     {
+      "id": 892,
+      "name": "Urshifu"
+    },
+    {
       "id": 893,
       "name": "Zarude"
     },
@@ -304,18 +308,6 @@
     {
       "id": 972,
       "name": "Houndstone"
-    },
-    {
-      "id": 996,
-      "name": "Frigibax"
-    },
-    {
-      "id": 997,
-      "name": "Arctibax"
-    },
-    {
-      "id": 998,
-      "name": "Baxcalibur"
     },
     {
       "id": 999,
