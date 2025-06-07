@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-29",
+  "date": "2025-06-20",
   "items": [
     {
       "id": 489,
@@ -404,14 +404,14 @@
       "id": 835,
       "name": "Yamper",
       "region": "Galar",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
       "id": 836,
       "name": "Boltund",
       "region": "Galar",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {

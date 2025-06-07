@@ -1,6 +1,2 @@
-node_modules
 data
 html
-package*.json
-*.js
-tmp
