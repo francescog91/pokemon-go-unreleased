@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-20",
+  "date": "2025-07-01",
   "items": [
     {
       "id": 494,
@@ -316,14 +316,6 @@
     {
       "id": 972,
       "name": "Houndstone"
-    },
-    {
-      "id": 999,
-      "name": "Gimmighoul"
-    },
-    {
-      "id": 1000,
-      "name": "Gholdengo"
     }
   ]
 }

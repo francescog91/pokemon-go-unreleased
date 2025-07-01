@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-20",
+  "date": "2025-07-01",
   "items": [
     {
       "id": 489,
@@ -1224,20 +1224,6 @@
       "name": "Iron Thorns",
       "region": "Paldea",
       "isReleased": false,
-      "isShinyReleased": false
-    },
-    {
-      "id": 999,
-      "name": "Gimmighoul",
-      "region": "Paldea",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 1000,
-      "name": "Gholdengo",
-      "region": "Paldea",
-      "isReleased": true,
       "isShinyReleased": false
     },
     {
