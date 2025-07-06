@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-20",
+  "date": "2025-07-22",
   "items": [
     {
       "id": 494,
@@ -8,6 +8,18 @@
     {
       "id": 647,
       "name": "Keldeo"
+    },
+    {
+      "id": 679,
+      "name": "Honedge"
+    },
+    {
+      "id": 680,
+      "name": "Doublade"
+    },
+    {
+      "id": 681,
+      "name": "Aegislash"
     },
     {
       "id": 701,
@@ -124,18 +136,6 @@
     {
       "id": 818,
       "name": "Inteleon"
-    },
-    {
-      "id": 821,
-      "name": "Rookidee"
-    },
-    {
-      "id": 822,
-      "name": "Corvisquire"
-    },
-    {
-      "id": 823,
-      "name": "Corviknight"
     },
     {
       "id": 827,

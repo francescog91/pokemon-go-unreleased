@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-20",
+  "date": "2025-07-22",
   "items": [
     {
       "id": 489,
@@ -40,21 +40,21 @@
       "id": 679,
       "name": "Honedge",
       "region": "Kalos",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
       "id": 680,
       "name": "Doublade",
       "region": "Kalos",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
       "id": 681,
       "name": "Aegislash",
       "region": "Kalos",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
@@ -312,27 +312,6 @@
     {
       "id": 818,
       "name": "Inteleon",
-      "region": "Galar",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 821,
-      "name": "Rookidee",
-      "region": "Galar",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 822,
-      "name": "Corvisquire",
-      "region": "Galar",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 823,
-      "name": "Corviknight",
       "region": "Galar",
       "isReleased": true,
       "isShinyReleased": false
