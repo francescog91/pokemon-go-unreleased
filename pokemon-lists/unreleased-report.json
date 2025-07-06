@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-01",
+  "date": "2025-07-15",
   "items": [
     {
       "id": 489,
@@ -1125,7 +1125,7 @@
       "id": 978,
       "name": "Tatsugiri",
       "region": "Paldea",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
