@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-22",
+  "date": "2025-07-29",
   "items": [
     {
       "id": 489,
@@ -894,14 +894,14 @@
       "id": 948,
       "name": "Toedscool",
       "region": "Paldea",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
       "id": 949,
       "name": "Toedscruel",
       "region": "Paldea",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
@@ -970,20 +970,6 @@
     {
       "id": 959,
       "name": "Tinkaton",
-      "region": "Paldea",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 960,
-      "name": "Wiglett",
-      "region": "Paldea",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 961,
-      "name": "Wugtrio",
       "region": "Paldea",
       "isReleased": true,
       "isShinyReleased": false

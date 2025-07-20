@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-22",
+  "date": "2025-07-29",
   "items": [
     {
       "id": 494,
@@ -270,6 +270,14 @@
       "name": "Grafaiai"
     },
     {
+      "id": 948,
+      "name": "Toedscool"
+    },
+    {
+      "id": 949,
+      "name": "Toedscruel"
+    },
+    {
       "id": 957,
       "name": "Tinkatink"
     },
@@ -280,14 +288,6 @@
     {
       "id": 959,
       "name": "Tinkaton"
-    },
-    {
-      "id": 960,
-      "name": "Wiglett"
-    },
-    {
-      "id": 961,
-      "name": "Wugtrio"
     },
     {
       "id": 965,
