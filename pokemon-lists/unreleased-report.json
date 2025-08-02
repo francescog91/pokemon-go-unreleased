@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-29",
+  "date": "2025-08-06",
   "items": [
     {
       "id": 489,
@@ -579,14 +579,14 @@
       "id": 872,
       "name": "Snom",
       "region": "Galar",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
       "id": 873,
       "name": "Frosmoth",
       "region": "Galar",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
@@ -762,20 +762,6 @@
       "name": "Spidops",
       "region": "Paldea",
       "isReleased": false,
-      "isShinyReleased": false
-    },
-    {
-      "id": 924,
-      "name": "Tandemaus",
-      "region": "Paldea",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 925,
-      "name": "Maushold",
-      "region": "Paldea",
-      "isReleased": true,
       "isShinyReleased": false
     },
     {

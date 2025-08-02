@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-29",
+  "date": "2025-08-06",
   "items": [
     {
       "id": 494,
@@ -202,6 +202,14 @@
       "name": "Hatterene"
     },
     {
+      "id": 872,
+      "name": "Snom"
+    },
+    {
+      "id": 873,
+      "name": "Frosmoth"
+    },
+    {
       "id": 874,
       "name": "Stonjourner"
     },
@@ -236,14 +244,6 @@
     {
       "id": 905,
       "name": "Enamorus"
-    },
-    {
-      "id": 924,
-      "name": "Tandemaus"
-    },
-    {
-      "id": 925,
-      "name": "Maushold"
     },
     {
       "id": 926,
