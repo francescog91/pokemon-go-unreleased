@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-06",
+  "date": "2025-08-11",
   "items": [
     {
       "id": 489,
@@ -125,20 +125,6 @@
       "name": "Wishiwashi",
       "region": "Alola",
       "isReleased": false,
-      "isShinyReleased": false
-    },
-    {
-      "id": 757,
-      "name": "Salandit",
-      "region": "Alola",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 758,
-      "name": "Salazzle",
-      "region": "Alola",
-      "isReleased": true,
       "isShinyReleased": false
     },
     {
