@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-25",
+  "date": "2025-09-16",
   "items": [
     {
       "id": 489,
@@ -585,13 +585,6 @@
     {
       "id": 875,
       "name": "Eiscue",
-      "region": "Galar",
-      "isReleased": false,
-      "isShinyReleased": false
-    },
-    {
-      "id": 876,
-      "name": "Indeedee",
       "region": "Galar",
       "isReleased": false,
       "isShinyReleased": false
