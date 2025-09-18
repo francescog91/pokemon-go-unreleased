@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-23",
+  "date": "2025-09-30",
   "items": [
     {
       "id": 489,
@@ -634,13 +634,6 @@
     {
       "id": 883,
       "name": "Arctovish",
-      "region": "Galar",
-      "isReleased": false,
-      "isShinyReleased": false
-    },
-    {
-      "id": 884,
-      "name": "Duraludon",
       "region": "Galar",
       "isReleased": false,
       "isShinyReleased": false
