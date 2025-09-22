@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-30",
+  "date": "2025-10-10",
   "items": [
     {
       "id": 494,
@@ -304,6 +304,14 @@
     {
       "id": 978,
       "name": "Tatsugiri"
+    },
+    {
+      "id": 1011,
+      "name": "Dipplin"
+    },
+    {
+      "id": 1019,
+      "name": "Hydrapple"
     }
   ]
 }
