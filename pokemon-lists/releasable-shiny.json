@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-10",
+  "date": "2025-10-21",
   "items": [
     {
       "id": 494,
@@ -174,14 +174,6 @@
       "name": "Centiskorch"
     },
     {
-      "id": 854,
-      "name": "Sinistea"
-    },
-    {
-      "id": 855,
-      "name": "Polteageist"
-    },
-    {
       "id": 856,
       "name": "Hatenna"
     },
@@ -308,6 +300,14 @@
     {
       "id": 1011,
       "name": "Dipplin"
+    },
+    {
+      "id": 1012,
+      "name": "Poltchageist"
+    },
+    {
+      "id": 1013,
+      "name": "Sinistcha"
     },
     {
       "id": 1019,

@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-10",
+  "date": "2025-10-21",
   "items": [
     {
       "id": 489,
@@ -482,20 +482,6 @@
       "name": "Grapploct",
       "region": "Galar",
       "isReleased": false,
-      "isShinyReleased": false
-    },
-    {
-      "id": 854,
-      "name": "Sinistea",
-      "region": "Galar",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 855,
-      "name": "Polteageist",
-      "region": "Galar",
-      "isReleased": true,
       "isShinyReleased": false
     },
     {
@@ -1195,14 +1181,14 @@
       "id": 1012,
       "name": "Poltchageist",
       "region": "Paldea",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
       "id": 1013,
       "name": "Sinistcha",
       "region": "Paldea",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
