@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-21",
+  "date": "2025-11-04",
   "items": [
     {
       "id": 489,
@@ -712,14 +712,14 @@
       "id": 917,
       "name": "Tarountula",
       "region": "Paldea",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
       "id": 918,
       "name": "Spidops",
       "region": "Paldea",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
