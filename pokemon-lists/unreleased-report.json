@@ -1,5 +1,5 @@
 {
-  "date": "2025-11-04",
+  "date": "2025-11-07",
   "items": [
     {
       "id": 489,
@@ -480,48 +480,6 @@
     {
       "id": 853,
       "name": "Grapploct",
-      "region": "Galar",
-      "isReleased": false,
-      "isShinyReleased": false
-    },
-    {
-      "id": 856,
-      "name": "Hatenna",
-      "region": "Galar",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 857,
-      "name": "Hattrem",
-      "region": "Galar",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 858,
-      "name": "Hatterene",
-      "region": "Galar",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 859,
-      "name": "Impidimp",
-      "region": "Galar",
-      "isReleased": false,
-      "isShinyReleased": false
-    },
-    {
-      "id": 860,
-      "name": "Morgrem",
-      "region": "Galar",
-      "isReleased": false,
-      "isShinyReleased": false
-    },
-    {
-      "id": 861,
-      "name": "Grimmsnarl",
       "region": "Galar",
       "isReleased": false,
       "isShinyReleased": false
