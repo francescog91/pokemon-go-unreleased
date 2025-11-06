@@ -1,5 +1,5 @@
 {
-  "date": "2025-11-07",
+  "date": "2025-11-18",
   "items": [
     {
       "id": 489,
@@ -531,13 +531,6 @@
       "name": "Eiscue",
       "region": "Galar",
       "isReleased": false,
-      "isShinyReleased": false
-    },
-    {
-      "id": 877,
-      "name": "Morpeko",
-      "region": "Galar",
-      "isReleased": true,
       "isShinyReleased": false
     },
     {
