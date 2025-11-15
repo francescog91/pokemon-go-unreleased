@@ -1,5 +1,5 @@
 {
-  "date": "2025-11-18",
+  "date": "2025-11-25",
   "items": [
     {
       "id": 489,
@@ -25,13 +25,6 @@
     {
       "id": 494,
       "name": "Victini",
-      "region": "Unova",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 647,
-      "name": "Keldeo",
       "region": "Unova",
       "isReleased": true,
       "isShinyReleased": false
