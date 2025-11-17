@@ -1,5 +1,5 @@
 {
-  "date": "2025-11-25",
+  "date": "2025-11-30",
   "items": [
     {
       "id": 489,
@@ -89,27 +89,6 @@
       "id": 721,
       "name": "Volcanion",
       "region": "Kalos",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 731,
-      "name": "Pikipek",
-      "region": "Alola",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 732,
-      "name": "Trumbeak",
-      "region": "Alola",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 733,
-      "name": "Toucannon",
-      "region": "Alola",
       "isReleased": true,
       "isShinyReleased": false
     },
