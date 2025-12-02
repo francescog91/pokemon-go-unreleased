@@ -1,5 +1,5 @@
 {
-  "date": "2025-12-02",
+  "date": "2025-12-11",
   "items": [
     {
       "id": 489,
@@ -446,14 +446,14 @@
       "id": 852,
       "name": "Clobbopus",
       "region": "Galar",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
       "id": 853,
       "name": "Grapploct",
       "region": "Galar",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
