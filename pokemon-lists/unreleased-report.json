@@ -1,5 +1,5 @@
 {
-  "date": "2025-12-11",
+  "date": "2025-12-24",
   "items": [
     {
       "id": 489,
@@ -355,21 +355,21 @@
       "id": 837,
       "name": "Rolycoly",
       "region": "Galar",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
       "id": 838,
       "name": "Carkol",
       "region": "Galar",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
       "id": 839,
       "name": "Coalossal",
       "region": "Galar",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
