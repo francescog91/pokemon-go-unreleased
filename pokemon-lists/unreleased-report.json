@@ -1,5 +1,5 @@
 {
-  "date": "2025-12-24",
+  "date": "2026-01-06",
   "items": [
     {
       "id": 489,
@@ -139,13 +139,6 @@
       "name": "Mimikyu",
       "region": "Alola",
       "isReleased": false,
-      "isShinyReleased": false
-    },
-    {
-      "id": 781,
-      "name": "Dhelmise",
-      "region": "Alola",
-      "isReleased": true,
       "isShinyReleased": false
     },
     {
@@ -775,7 +768,7 @@
       "id": 950,
       "name": "Klawf",
       "region": "Paldea",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
