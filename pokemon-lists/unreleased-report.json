@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-13",
+  "date": "2026-01-18",
   "items": [
     {
       "id": 489,
@@ -202,27 +202,6 @@
       "name": "Zeraora",
       "region": "Alola",
       "isReleased": false,
-      "isShinyReleased": false
-    },
-    {
-      "id": 810,
-      "name": "Grookey",
-      "region": "Galar",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 811,
-      "name": "Thwackey",
-      "region": "Galar",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 812,
-      "name": "Rillaboom",
-      "region": "Galar",
-      "isReleased": true,
       "isShinyReleased": false
     },
     {
