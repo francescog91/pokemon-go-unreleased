@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-06",
+  "date": "2026-01-13",
   "items": [
     {
       "id": 489,
@@ -681,31 +681,17 @@
       "isShinyReleased": false
     },
     {
-      "id": 938,
-      "name": "Tadbulb",
-      "region": "Paldea",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 939,
-      "name": "Bellibolt",
-      "region": "Paldea",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
       "id": 940,
       "name": "Wattrel",
       "region": "Paldea",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
       "id": 941,
       "name": "Kilowattrel",
       "region": "Paldea",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
