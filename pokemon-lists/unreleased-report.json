@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-18",
+  "date": "2026-01-20",
   "items": [
     {
       "id": 489,
@@ -613,20 +613,6 @@
     {
       "id": 918,
       "name": "Spidops",
-      "region": "Paldea",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 926,
-      "name": "Fidough",
-      "region": "Paldea",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 927,
-      "name": "Dachsbun",
       "region": "Paldea",
       "isReleased": true,
       "isShinyReleased": false
