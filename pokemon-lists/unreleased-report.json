@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-20",
+  "date": "2026-01-27",
   "items": [
     {
       "id": 489,
@@ -810,14 +810,14 @@
       "id": 969,
       "name": "Glimmet",
       "region": "Paldea",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
       "id": 970,
       "name": "Glimmora",
       "region": "Paldea",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
