@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-28",
+  "date": "2026-03-14",
   "items": [
     {
       "id": 489,
@@ -160,27 +160,6 @@
       "name": "Zeraora",
       "region": "Alola",
       "isReleased": false,
-      "isShinyReleased": false
-    },
-    {
-      "id": 813,
-      "name": "Scorbunny",
-      "region": "Galar",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 814,
-      "name": "Raboot",
-      "region": "Galar",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 815,
-      "name": "Cinderace",
-      "region": "Galar",
-      "isReleased": true,
       "isShinyReleased": false
     },
     {
