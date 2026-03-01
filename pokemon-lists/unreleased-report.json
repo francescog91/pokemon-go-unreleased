@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-14",
+  "date": "2026-03-17",
   "items": [
     {
       "id": 489,
@@ -187,21 +187,21 @@
       "id": 824,
       "name": "Blipbug",
       "region": "Galar",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
       "id": 825,
       "name": "Dottler",
       "region": "Galar",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
       "id": 826,
       "name": "Orbeetle",
       "region": "Galar",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
@@ -335,20 +335,6 @@
       "name": "Barraskewda",
       "region": "Galar",
       "isReleased": false,
-      "isShinyReleased": false
-    },
-    {
-      "id": 850,
-      "name": "Sizzlipede",
-      "region": "Galar",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 851,
-      "name": "Centiskorch",
-      "region": "Galar",
-      "isReleased": true,
       "isShinyReleased": false
     },
     {
