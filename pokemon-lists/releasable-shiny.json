@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-01",
+  "date": "2026-04-14",
   "items": [
     {
       "id": 494,
@@ -126,6 +126,14 @@
       "name": "Appletun"
     },
     {
+      "id": 843,
+      "name": "Silicobra"
+    },
+    {
+      "id": 844,
+      "name": "Sandaconda"
+    },
+    {
       "id": 852,
       "name": "Clobbopus"
     },
@@ -212,14 +220,6 @@
     {
       "id": 945,
       "name": "Grafaiai"
-    },
-    {
-      "id": 948,
-      "name": "Toedscool"
-    },
-    {
-      "id": 949,
-      "name": "Toedscruel"
     },
     {
       "id": 950,

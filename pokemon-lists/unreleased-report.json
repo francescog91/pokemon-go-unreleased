@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-01",
+  "date": "2026-04-14",
   "items": [
     {
       "id": 489,
@@ -306,14 +306,14 @@
       "id": 843,
       "name": "Silicobra",
       "region": "Galar",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
       "id": 844,
       "name": "Sandaconda",
       "region": "Galar",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
@@ -622,20 +622,6 @@
       "name": "Brambleghast",
       "region": "Paldea",
       "isReleased": false,
-      "isShinyReleased": false
-    },
-    {
-      "id": 948,
-      "name": "Toedscool",
-      "region": "Paldea",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 949,
-      "name": "Toedscruel",
-      "region": "Paldea",
-      "isReleased": true,
       "isShinyReleased": false
     },
     {
