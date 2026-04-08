@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-14",
+  "date": "2026-04-28",
   "items": [
     {
       "id": 489,
@@ -704,13 +704,6 @@
     {
       "id": 967,
       "name": "Cyclizar",
-      "region": "Paldea",
-      "isReleased": false,
-      "isShinyReleased": false
-    },
-    {
-      "id": 968,
-      "name": "Orthworm",
       "region": "Paldea",
       "isReleased": false,
       "isShinyReleased": false
