@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-28",
+  "date": "2026-04-30",
   "items": [
     {
       "id": 489,
@@ -685,20 +685,6 @@
       "name": "Palafin",
       "region": "Paldea",
       "isReleased": false,
-      "isShinyReleased": false
-    },
-    {
-      "id": 965,
-      "name": "Varoom",
-      "region": "Paldea",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 966,
-      "name": "Revavroom",
-      "region": "Paldea",
-      "isReleased": true,
       "isShinyReleased": false
     },
     {
