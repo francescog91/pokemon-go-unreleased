@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-30",
+  "date": "2026-05-12",
   "items": [
     {
       "id": 489,
@@ -663,14 +663,14 @@
       "id": 955,
       "name": "Flittle",
       "region": "Paldea",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
       "id": 956,
       "name": "Espathra",
       "region": "Paldea",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
