@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-12",
+  "date": "2026-05-29",
   "items": [
     {
       "id": 489,
@@ -159,7 +159,7 @@
       "id": 807,
       "name": "Zeraora",
       "region": "Alola",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
