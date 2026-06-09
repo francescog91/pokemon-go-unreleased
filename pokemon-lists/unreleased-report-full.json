@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-29",
+  "date": "2026-06-23",
   "items": [
     {
       "id": 1,
@@ -6515,7 +6515,7 @@
       "id": 931,
       "name": "Squawkabilly",
       "region": "Paldea",
-      "isReleased": false,
+      "isReleased": true,
       "isShinyReleased": false
     },
     {
