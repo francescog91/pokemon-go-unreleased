@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-23",
+  "date": "2026-07-04",
   "items": [
     {
       "id": 1,
@@ -5711,21 +5711,21 @@
       "name": "Sobble",
       "region": "Galar",
       "isReleased": true,
-      "isShinyReleased": false
+      "isShinyReleased": true
     },
     {
       "id": 817,
       "name": "Drizzile",
       "region": "Galar",
       "isReleased": true,
-      "isShinyReleased": false
+      "isShinyReleased": true
     },
     {
       "id": 818,
       "name": "Inteleon",
       "region": "Galar",
       "isReleased": true,
-      "isShinyReleased": false
+      "isShinyReleased": true
     },
     {
       "id": 819,

@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-23",
+  "date": "2026-07-04",
   "items": [
     {
       "id": 489,
@@ -159,27 +159,6 @@
       "id": 807,
       "name": "Zeraora",
       "region": "Alola",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 816,
-      "name": "Sobble",
-      "region": "Galar",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 817,
-      "name": "Drizzile",
-      "region": "Galar",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 818,
-      "name": "Inteleon",
-      "region": "Galar",
       "isReleased": true,
       "isShinyReleased": false
     },
