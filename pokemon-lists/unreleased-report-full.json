@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-04",
+  "date": "2026-07-22",
   "items": [
     {
       "id": 1,
@@ -5536,7 +5536,7 @@
       "name": "Solgaleo",
       "region": "Alola",
       "isReleased": true,
-      "isShinyReleased": false
+      "isShinyReleased": true
     },
     {
       "id": 792,
