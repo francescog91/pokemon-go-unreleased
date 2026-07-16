@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-04",
+  "date": "2026-08-16",
   "items": [
     {
       "id": 489,
@@ -172,20 +172,6 @@
     {
       "id": 826,
       "name": "Orbeetle",
-      "region": "Galar",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 827,
-      "name": "Nickit",
-      "region": "Galar",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 828,
-      "name": "Thievul",
       "region": "Galar",
       "isReleased": true,
       "isShinyReleased": false

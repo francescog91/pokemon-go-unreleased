@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-04",
+  "date": "2026-08-16",
   "items": [
     {
       "id": 1,
@@ -5788,14 +5788,14 @@
       "name": "Nickit",
       "region": "Galar",
       "isReleased": true,
-      "isShinyReleased": false
+      "isShinyReleased": true
     },
     {
       "id": 828,
       "name": "Thievul",
       "region": "Galar",
       "isReleased": true,
-      "isShinyReleased": false
+      "isShinyReleased": true
     },
     {
       "id": 829,
