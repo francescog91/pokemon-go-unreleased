@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-16",
+  "date": "2026-08-18",
   "items": [
     {
       "id": 494,
@@ -112,6 +112,18 @@
     {
       "id": 844,
       "name": "Sandaconda"
+    },
+    {
+      "id": 845,
+      "name": "Cramorant"
+    },
+    {
+      "id": 846,
+      "name": "Arrokuda"
+    },
+    {
+      "id": 847,
+      "name": "Barraskewda"
     },
     {
       "id": 852,
