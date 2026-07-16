@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-08-04",
   "items": [
     {
       "id": 489,
@@ -342,20 +342,6 @@
       "name": "Pincurchin",
       "region": "Galar",
       "isReleased": false,
-      "isShinyReleased": false
-    },
-    {
-      "id": 872,
-      "name": "Snom",
-      "region": "Galar",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 873,
-      "name": "Frosmoth",
-      "region": "Galar",
-      "isReleased": true,
       "isShinyReleased": false
     },
     {
