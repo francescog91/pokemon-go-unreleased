@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "items": [
     {
       "id": 489,
@@ -109,13 +109,6 @@
     {
       "id": 790,
       "name": "Cosmoem",
-      "region": "Alola",
-      "isReleased": true,
-      "isShinyReleased": false
-    },
-    {
-      "id": 792,
-      "name": "Lunala",
       "region": "Alola",
       "isReleased": true,
       "isShinyReleased": false

@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "items": [
     {
       "id": 1,
@@ -5543,7 +5543,7 @@
       "name": "Lunala",
       "region": "Alola",
       "isReleased": true,
-      "isShinyReleased": false
+      "isShinyReleased": true
     },
     {
       "id": 793,
