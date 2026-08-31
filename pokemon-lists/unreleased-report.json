@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-09-08",
   "items": [
     {
       "id": 489,
@@ -26,21 +26,21 @@
       "id": 494,
       "name": "Victini",
       "region": "Unova",
-      "releaseDate": "0001-01-01",
+      "releaseDate": "2020-07-26",
       "shinyReleaseDate": "9999-12-31"
     },
     {
       "id": 718,
       "name": "Zygarde",
       "region": "Kalos",
-      "releaseDate": "0001-01-01",
+      "releaseDate": "2023-07-20",
       "shinyReleaseDate": "9999-12-31"
     },
     {
       "id": 720,
       "name": "Hoopa",
       "region": "Kalos",
-      "releaseDate": "0001-01-01",
+      "releaseDate": "2021-09-05",
       "shinyReleaseDate": "9999-12-31"
     },
     {
@@ -61,7 +61,7 @@
       "id": 764,
       "name": "Comfey",
       "region": "Alola",
-      "releaseDate": "0001-01-01",
+      "releaseDate": "2022-03-01",
       "shinyReleaseDate": "9999-12-31"
     },
     {
@@ -103,14 +103,14 @@
       "id": 789,
       "name": "Cosmog",
       "region": "Alola",
-      "releaseDate": "0001-01-01",
+      "releaseDate": "2022-09-01",
       "shinyReleaseDate": "9999-12-31"
     },
     {
       "id": 790,
       "name": "Cosmoem",
       "region": "Alola",
-      "releaseDate": "0001-01-01",
+      "releaseDate": "2022-10-05",
       "shinyReleaseDate": "9999-12-31"
     },
     {
@@ -124,21 +124,21 @@
       "id": 802,
       "name": "Marshadow",
       "region": "Alola",
-      "releaseDate": "0001-01-01",
+      "releaseDate": "2024-05-30",
       "shinyReleaseDate": "9999-12-31"
     },
     {
       "id": 803,
       "name": "Poipole",
       "region": "Alola",
-      "releaseDate": "0001-01-01",
+      "releaseDate": "2024-03-01",
       "shinyReleaseDate": "9999-12-31"
     },
     {
       "id": 804,
       "name": "Naganadel",
       "region": "Alola",
-      "releaseDate": "0001-01-01",
+      "releaseDate": "2024-05-23",
       "shinyReleaseDate": "9999-12-31"
     },
     {
@@ -173,14 +173,14 @@
       "id": 829,
       "name": "Gossifleur",
       "region": "Galar",
-      "releaseDate": "0001-01-01",
+      "releaseDate": "2025-04-09",
       "shinyReleaseDate": "9999-12-31"
     },
     {
       "id": 830,
       "name": "Eldegoss",
       "region": "Galar",
-      "releaseDate": "0001-01-01",
+      "releaseDate": "2025-04-09",
       "shinyReleaseDate": "9999-12-31"
     },
     {
@@ -201,14 +201,14 @@
       "id": 835,
       "name": "Yamper",
       "region": "Galar",
-      "releaseDate": "0001-01-01",
+      "releaseDate": "2025-06-20",
       "shinyReleaseDate": "9999-12-31"
     },
     {
       "id": 836,
       "name": "Boltund",
       "region": "Galar",
-      "releaseDate": "0001-01-01",
+      "releaseDate": "2025-06-20",
       "shinyReleaseDate": "9999-12-31"
     },
     {
@@ -236,21 +236,21 @@
       "id": 840,
       "name": "Applin",
       "region": "Galar",
-      "releaseDate": "0001-01-01",
+      "releaseDate": "2025-04-24",
       "shinyReleaseDate": "9999-12-31"
     },
     {
       "id": 841,
       "name": "Flapple",
       "region": "Galar",
-      "releaseDate": "0001-01-01",
+      "releaseDate": "2025-04-24",
       "shinyReleaseDate": "9999-12-31"
     },
     {
       "id": 842,
       "name": "Appletun",
       "region": "Galar",
-      "releaseDate": "0001-01-01",
+      "releaseDate": "2025-04-24",
       "shinyReleaseDate": "9999-12-31"
     },
     {
@@ -327,7 +327,7 @@
       "id": 874,
       "name": "Stonjourner",
       "region": "Galar",
-      "releaseDate": "0001-01-01",
+      "releaseDate": "2024-09-03",
       "shinyReleaseDate": "9999-12-31"
     },
     {
@@ -383,42 +383,42 @@
       "id": 885,
       "name": "Dreepy",
       "region": "Galar",
-      "releaseDate": "0001-01-01",
+      "releaseDate": "2024-09-03",
       "shinyReleaseDate": "9999-12-31"
     },
     {
       "id": 886,
       "name": "Drakloak",
       "region": "Galar",
-      "releaseDate": "0001-01-01",
+      "releaseDate": "2024-09-03",
       "shinyReleaseDate": "9999-12-31"
     },
     {
       "id": 887,
       "name": "Dragapult",
       "region": "Galar",
-      "releaseDate": "0001-01-01",
+      "releaseDate": "2024-09-03",
       "shinyReleaseDate": "9999-12-31"
     },
     {
       "id": 890,
       "name": "Eternatus",
       "region": "Galar",
-      "releaseDate": "0001-01-01",
+      "releaseDate": "2025-08-23",
       "shinyReleaseDate": "9999-12-31"
     },
     {
       "id": 891,
       "name": "Kubfu",
       "region": "Galar",
-      "releaseDate": "0001-01-01",
+      "releaseDate": "2025-03-05",
       "shinyReleaseDate": "9999-12-31"
     },
     {
       "id": 892,
       "name": "Urshifu",
       "region": "Galar",
-      "releaseDate": "0001-01-01",
+      "releaseDate": "2025-05-21",
       "shinyReleaseDate": "9999-12-31"
     },
     {
@@ -523,28 +523,28 @@
       "id": 942,
       "name": "Maschiff",
       "region": "Paldea",
-      "releaseDate": "9999-12-31",
+      "releaseDate": "2026-09-08",
       "shinyReleaseDate": "9999-12-31"
     },
     {
       "id": 943,
       "name": "Mabosstiff",
       "region": "Paldea",
-      "releaseDate": "9999-12-31",
+      "releaseDate": "2026-09-08",
       "shinyReleaseDate": "9999-12-31"
     },
     {
       "id": 944,
       "name": "Shroodle",
       "region": "Paldea",
-      "releaseDate": "0001-01-01",
+      "releaseDate": "2025-01-15",
       "shinyReleaseDate": "9999-12-31"
     },
     {
       "id": 945,
       "name": "Grafaiai",
       "region": "Paldea",
-      "releaseDate": "0001-01-01",
+      "releaseDate": "2025-01-15",
       "shinyReleaseDate": "9999-12-31"
     },
     {
@@ -657,13 +657,6 @@
       "name": "Houndstone",
       "region": "Paldea",
       "releaseDate": "2023-10-19",
-      "shinyReleaseDate": "9999-12-31"
-    },
-    {
-      "id": 973,
-      "name": "Flamigo",
-      "region": "Paldea",
-      "releaseDate": "2026-02-03",
       "shinyReleaseDate": "9999-12-31"
     },
     {
