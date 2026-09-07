@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-29",
   "items": [
     {
       "id": 494,
@@ -88,18 +88,6 @@
     {
       "id": 839,
       "name": "Coalossal"
-    },
-    {
-      "id": 840,
-      "name": "Applin"
-    },
-    {
-      "id": 841,
-      "name": "Flapple"
-    },
-    {
-      "id": 842,
-      "name": "Appletun"
     },
     {
       "id": 843,
@@ -246,20 +234,12 @@
       "name": "Tatsugiri"
     },
     {
-      "id": 1011,
-      "name": "Dipplin"
-    },
-    {
       "id": 1012,
       "name": "Poltchageist"
     },
     {
       "id": 1013,
       "name": "Sinistcha"
-    },
-    {
-      "id": 1019,
-      "name": "Hydrapple"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-29",
   "items": [
     {
       "id": 489,
@@ -230,27 +230,6 @@
       "name": "Coalossal",
       "region": "Galar",
       "releaseDate": "2025-12-24",
-      "shinyReleaseDate": "9999-12-31"
-    },
-    {
-      "id": 840,
-      "name": "Applin",
-      "region": "Galar",
-      "releaseDate": "2025-04-24",
-      "shinyReleaseDate": "9999-12-31"
-    },
-    {
-      "id": 841,
-      "name": "Flapple",
-      "region": "Galar",
-      "releaseDate": "2025-04-24",
-      "shinyReleaseDate": "9999-12-31"
-    },
-    {
-      "id": 842,
-      "name": "Appletun",
-      "region": "Galar",
-      "releaseDate": "2025-04-24",
       "shinyReleaseDate": "9999-12-31"
     },
     {
@@ -835,13 +814,6 @@
       "shinyReleaseDate": "9999-12-31"
     },
     {
-      "id": 1011,
-      "name": "Dipplin",
-      "region": "Paldea",
-      "releaseDate": "2025-10-10",
-      "shinyReleaseDate": "9999-12-31"
-    },
-    {
       "id": 1012,
       "name": "Poltchageist",
       "region": "Paldea",
@@ -888,13 +860,6 @@
       "name": "Archaludon",
       "region": "Paldea",
       "releaseDate": "9999-12-31",
-      "shinyReleaseDate": "9999-12-31"
-    },
-    {
-      "id": 1019,
-      "name": "Hydrapple",
-      "region": "Paldea",
-      "releaseDate": "2025-10-10",
       "shinyReleaseDate": "9999-12-31"
     },
     {

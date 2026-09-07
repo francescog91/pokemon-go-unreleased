@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-29",
   "items": [
     {
       "id": 489,
@@ -132,18 +132,6 @@
     {
       "id": 839,
       "name": "Coalossal"
-    },
-    {
-      "id": 840,
-      "name": "Applin"
-    },
-    {
-      "id": 841,
-      "name": "Flapple"
-    },
-    {
-      "id": 842,
-      "name": "Appletun"
     },
     {
       "id": 843,
@@ -478,10 +466,6 @@
       "name": "Iron Leaves"
     },
     {
-      "id": 1011,
-      "name": "Dipplin"
-    },
-    {
       "id": 1012,
       "name": "Poltchageist"
     },
@@ -508,10 +492,6 @@
     {
       "id": 1018,
       "name": "Archaludon"
-    },
-    {
-      "id": 1019,
-      "name": "Hydrapple"
     },
     {
       "id": 1020,

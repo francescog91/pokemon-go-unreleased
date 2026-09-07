@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-29",
   "items": [
     {
       "id": 1,
@@ -5879,21 +5879,21 @@
       "name": "Applin",
       "region": "Galar",
       "releaseDate": "2025-04-24",
-      "shinyReleaseDate": "9999-12-31"
+      "shinyReleaseDate": "2026-09-29"
     },
     {
       "id": 841,
       "name": "Flapple",
       "region": "Galar",
       "releaseDate": "2025-04-24",
-      "shinyReleaseDate": "9999-12-31"
+      "shinyReleaseDate": "2026-09-29"
     },
     {
       "id": 842,
       "name": "Appletun",
       "region": "Galar",
       "releaseDate": "2025-04-24",
-      "shinyReleaseDate": "9999-12-31"
+      "shinyReleaseDate": "2026-09-29"
     },
     {
       "id": 843,
@@ -7076,7 +7076,7 @@
       "name": "Dipplin",
       "region": "Paldea",
       "releaseDate": "2025-10-10",
-      "shinyReleaseDate": "9999-12-31"
+      "shinyReleaseDate": "2026-09-29"
     },
     {
       "id": 1012,
@@ -7132,7 +7132,7 @@
       "name": "Hydrapple",
       "region": "Paldea",
       "releaseDate": "2025-10-10",
-      "shinyReleaseDate": "9999-12-31"
+      "shinyReleaseDate": "2026-09-29"
     },
     {
       "id": 1020,
