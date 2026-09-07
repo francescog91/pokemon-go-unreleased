@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-10-02",
   "items": [
     {
       "id": 489,
@@ -510,20 +510,6 @@
       "name": "Mabosstiff",
       "region": "Paldea",
       "releaseDate": "2026-09-08",
-      "shinyReleaseDate": "9999-12-31"
-    },
-    {
-      "id": 944,
-      "name": "Shroodle",
-      "region": "Paldea",
-      "releaseDate": "2025-01-15",
-      "shinyReleaseDate": "9999-12-31"
-    },
-    {
-      "id": 945,
-      "name": "Grafaiai",
-      "region": "Paldea",
-      "releaseDate": "2025-01-15",
       "shinyReleaseDate": "9999-12-31"
     },
     {
