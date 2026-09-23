@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-13",
   "items": [
     {
       "id": 494,
@@ -192,6 +192,14 @@
     {
       "id": 943,
       "name": "Mabosstiff"
+    },
+    {
+      "id": 946,
+      "name": "Bramblin"
+    },
+    {
+      "id": 947,
+      "name": "Brambleghast"
     },
     {
       "id": 950,

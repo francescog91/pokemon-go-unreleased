@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-13",
   "items": [
     {
       "id": 1,
@@ -6620,14 +6620,14 @@
       "id": 946,
       "name": "Bramblin",
       "region": "Paldea",
-      "releaseDate": "9999-12-31",
+      "releaseDate": "2026-10-13",
       "shinyReleaseDate": "9999-12-31"
     },
     {
       "id": 947,
       "name": "Brambleghast",
       "region": "Paldea",
-      "releaseDate": "9999-12-31",
+      "releaseDate": "2026-10-13",
       "shinyReleaseDate": "9999-12-31"
     },
     {
