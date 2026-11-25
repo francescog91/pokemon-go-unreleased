@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-26",
   "items": [
     {
       "id": 1,
@@ -199,7 +199,7 @@
     },
     {
       "id": 29,
-      "name": "Nidoran\u2640",
+      "name": "Nidoran♀",
       "region": "Kanto",
       "releaseDate": "2016-07-06",
       "shinyReleaseDate": "2018-10-11"
@@ -220,7 +220,7 @@
     },
     {
       "id": 32,
-      "name": "Nidoran\u2642",
+      "name": "Nidoran♂",
       "region": "Kanto",
       "releaseDate": "2016-07-06",
       "shinyReleaseDate": "2019-07-04"
@@ -577,7 +577,7 @@
     },
     {
       "id": 83,
-      "name": "Farfetch\u2019d",
+      "name": "Farfetch’d",
       "region": "Kanto",
       "releaseDate": "2016-07-06",
       "shinyReleaseDate": "2019-09-09"
@@ -4679,7 +4679,7 @@
     },
     {
       "id": 669,
-      "name": "Flab\u00E9b\u00E9",
+      "name": "Flabébé",
       "region": "Kalos",
       "releaseDate": "2022-02-10",
       "shinyReleaseDate": "2024-03-21"
@@ -5395,8 +5395,8 @@
       "id": 771,
       "name": "Pyukumuku",
       "region": "Alola",
-      "releaseDate": "9999-12-31",
-      "shinyReleaseDate": "9999-12-31"
+      "releaseDate": "2026-12-01",
+      "shinyReleaseDate": "2026-12-01"
     },
     {
       "id": 772,
@@ -5620,14 +5620,14 @@
       "name": "Poipole",
       "region": "Alola",
       "releaseDate": "2024-03-01",
-      "shinyReleaseDate": "9999-12-31"
+      "shinyReleaseDate": "2027-02-19"
     },
     {
       "id": 804,
       "name": "Naganadel",
       "region": "Alola",
       "releaseDate": "2024-05-23",
-      "shinyReleaseDate": "9999-12-31"
+      "shinyReleaseDate": "2027-02-19"
     },
     {
       "id": 805,
@@ -6051,7 +6051,7 @@
     },
     {
       "id": 865,
-      "name": "Sirfetch\u2019d",
+      "name": "Sirfetch’d",
       "region": "Galar",
       "releaseDate": "2020-10-22",
       "shinyReleaseDate": "2021-08-20"
